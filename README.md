@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kulkarni</h1>
-<h3 align="center">A Computer Science Student and Tech Fanatic</h3>
+<h3 align="center">A CS, ML and Tech Fanatic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adikulkarni11&label=Profile%20views&color=0e75b6&style=flat" alt="adikulkarni11" /> </p>
 
