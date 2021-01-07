@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [improving image instance segmentation with Mask RCNN](https://caiwending.cse.uconn.edu/person/aditya-kulkarni/)
 
+- :school: I'm currently pursuing a **B.S. in Computer Science and Engineering with a concentration in Computational Data Analytics**
+
 - 🌱 I’m currently learning **Cloud Computing!**
 
 - 👯 I’m looking to collaborate on **anything related to AI! Specifically ML**
