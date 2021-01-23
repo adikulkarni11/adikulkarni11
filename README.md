@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adikulkarni11&label=Profile%20views&color=0e75b6&style=flat" alt="adikulkarni11" /> </p>
 
-- :house: Home Page: [https://adikulkarni11.github.io/](https://adikulkarni11.github.io/)
+- :house: Landing Page: [https://adikulkarni11.github.io/](https://adikulkarni11.github.io/)
 
 - 😄 Pronouns: He/Him/His
 
