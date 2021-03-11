@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **adikulkarni11@gmail.com**
 
-- ⚡ Fun fact **I used to be ambidextrous until I forgot how to write with my right hand**
+- ⚡ Fun fact **I used to be ambidextrous until I forgot how to write with my right hand!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
