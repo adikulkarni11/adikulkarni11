@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing!**
 
-- 👯 I’m looking to collaborate on **anything related to AI! Specifically ML**
+- 👯 I’m looking to collaborate on **anything related to AI, ML, & Software Engineering**
 
 - 📝 2021 Goal: **Contributing to more open-source Github projects**
 
